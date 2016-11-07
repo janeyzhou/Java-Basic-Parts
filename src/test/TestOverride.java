@@ -19,7 +19,7 @@ class TT{
 		this.price = price;
 	}
 
-	TT(){
+	TT(){//一旦重写了默认的构造函数，默认的构造函数就无法使用了
 		System.out.println("superclass: " + n);
 	}
 		
