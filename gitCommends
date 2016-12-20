@@ -1,0 +1,2 @@
+git fetch ---get all remote branch
+git checkout remoteBranchName ------create a local branch with the same name of remoteBranchName, and switch to this branch
