@@ -1,0 +1,4 @@
+$ cat .gitignore
+#ignore config files from idea
+target/
+src/test/
